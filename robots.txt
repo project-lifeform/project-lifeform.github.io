@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://project-lifeform.github.io/sitemap.xml
